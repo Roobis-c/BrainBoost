@@ -41,6 +41,11 @@ The generated plan will look like a text block showing a weekly breakdown with r
 - [html2canvas](https://www.npmjs.com/package/html2canvas)
 - [OpenRouter API](https://openrouter.ai/)
 
+
+
+![Screenshot 2025-05-08 202806](https://github.com/user-attachments/assets/04527089-bad9-4482-a7de-ed9d95c2d13e)
+
+
 ## 👨‍💻 Developed By
 
 Roobis – BE CSE Student & Web Developer  
